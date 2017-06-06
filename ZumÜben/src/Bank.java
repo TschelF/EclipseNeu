@@ -3,6 +3,7 @@ import java.util.ArrayList;
 public class Bank {
 	private ArrayList <Integer> daten;
 	private String name;
+	private long zahl;
 	
 	
 	
